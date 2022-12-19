@@ -10,9 +10,18 @@
   "author": "SwimmingRiver",
   "license": "ISC",
   "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "antd": "^5.0.7",
     "next": "^9.5.5",
     "prop-types": "^15.8.1",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }
